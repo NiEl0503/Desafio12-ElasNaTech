@@ -1,0 +1,24 @@
+{
+  "name": "desafio12-elasnatech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cp -r src dist",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiEl0503/Desafio12-ElasNaTech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiEl0503/Desafio12-ElasNaTech/issues"
+  },
+  "homepage": "https://github.com/NiEl0503/Desafio12-ElasNaTech#readme",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
